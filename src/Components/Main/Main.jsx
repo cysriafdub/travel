@@ -9,6 +9,7 @@ import img7 from '../../Assets/img (7).jpg'
 import img8 from '../../Assets/img (8).jpg'
 import img9 from '../../Assets/img (9).jpg'
 import img10 from '../../Assets/img (10).jpg'
+import img11 from '../../Assets/img (11).jpg'
 
 
 //import icons
@@ -112,15 +113,15 @@ const Data = [
   fees: '₱4800', 
   description: `Embark on a journey to Batanes, a remote and breathtakingly beautiful province in the Philippines. Be captivated by the rolling hills, rugged cliffs, and unique stone houses that give you a glimpse of a different world.`
 },
-// {
-//   id: 11,
-//   imgSrc: 'img11',
-//   destTitle: 'Siquijor',
-//   location: 'Siquijor, Philippines',
-//   grade: 'CULTURAL RELAX',
-//   fees: '₱3200', 
-//   description: `Discover the mystic charm of Siquijor, known for its pristine beaches, mystical traditions, and captivating waterfalls. Embrace the island's enchanting atmosphere and unwind amidst its natural wonders.`
-// },
+{
+  id: 11,
+  imgSrc: img11,
+  destTitle: 'Siquijor',
+  location: 'Siquijor, Philippines',
+  grade: 'CULTURAL RELAX',
+  fees: '₱3200', 
+  description: `Discover the mystic charm of Siquijor, known for its pristine beaches, mystical traditions, and captivating waterfalls. Embrace the island's enchanting atmosphere and unwind amidst its natural wonders.`
+},
 // {
 //   id: 12,
 //   imgSrc: 'img12',
